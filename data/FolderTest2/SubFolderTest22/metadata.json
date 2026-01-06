@@ -1,0 +1,15 @@
+{
+  "name": "SubFolderTest22",
+  "children": [
+    {
+      "name": "SoftwareEngineering",
+      "numOfChildren": 10,
+      "proficiency": 1
+    },
+    {
+      "name": "Food",
+      "numOfChildren": 20,
+      "proficiency": 1
+    }
+  ]
+}

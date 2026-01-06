@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "term": "オレンジ",
+      "pronounce": "おれんじ",
+      "definition": "Orange",
+      "note": "Citrus fruit rich in vitamin C",
+      "state": 4
+    },
+    {
+      "term": "メロン",
+      "pronounce": "めろん",
+      "definition": "Melon",
+      "note": "Sweet summer fruit",
+      "state": 4
+    },
+    {
+      "term": "いちご",
+      "pronounce": "いちご",
+      "definition": "Strawberry",
+      "note": "Small red fruit with seeds",
+      "state": 4
+    },
+    {
+      "term": "バナナ",
+      "pronounce": "ばなな",
+      "definition": "Banana",
+      "note": "Yellow curved fruit",
+      "state": 2
+    },
+    {
+      "term": "りんご",
+      "pronounce": "りんご",
+      "definition": "Apple",
+      "note": "Red or green fruit",
+      "state": 4
+    },
+    {
+      "term": "もも",
+      "pronounce": "もも",
+      "definition": "Peach",
+      "note": "Soft fuzzy fruit",
+      "state": 4
+    },
+    {
+      "term": "スイカ",
+      "pronounce": "すいか",
+      "definition": "Watermelon",
+      "note": "Large refreshing summer fruit",
+      "state": 4
+    },
+    {
+      "term": "ぶどう",
+      "pronounce": "ぶどう",
+      "definition": "Grape",
+      "note": "Used to make wine",
+      "state": 4
+    },
+    {
+      "term": "さくらんぼ",
+      "pronounce": "さくらんぼ",
+      "definition": "Cherry",
+      "note": "Small red fruit with pit",
+      "state": 1
+    },
+    {
+      "term": "パイナップル",
+      "pronounce": "ぱいなっぷる",
+      "definition": "Pineapple",
+      "note": "Tropical fruit with spiky skin",
+      "state": 3
+    }
+  ]
+}

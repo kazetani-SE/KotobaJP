@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "term": "馬",
+      "pronounce": "うま",
+      "definition": "Horse",
+      "note": "Used for riding and racing",
+      "state": 4
+    },
+    {
+      "term": "猿",
+      "pronounce": "さる",
+      "definition": "Monkey",
+      "note": "Intelligent primate",
+      "state": 4
+    },
+    {
+      "term": "魚",
+      "pronounce": "さかな",
+      "definition": "Fish",
+      "note": "Lives in water",
+      "state": 3
+    },
+    {
+      "term": "虎",
+      "pronounce": "とら",
+      "definition": "Tiger",
+      "note": "Wild cat with stripes",
+      "state": 4
+    },
+    {
+      "term": "豚",
+      "pronounce": "ぶた",
+      "definition": "Pig",
+      "note": "Farm animal for pork",
+      "state": 4
+    },
+    {
+      "term": "鳥",
+      "pronounce": "とり",
+      "definition": "Bird",
+      "note": "Can fly in the sky",
+      "state": 3
+    },
+    {
+      "term": "猫",
+      "pronounce": "ねこ",
+      "definition": "Cat",
+      "note": "Popular domestic animal",
+      "state": 4
+    },
+    {
+      "term": "熊",
+      "pronounce": "くま",
+      "definition": "Bear",
+      "note": "Large wild animal",
+      "state": 4
+    },
+    {
+      "term": "犬",
+      "pronounce": "いぬ",
+      "definition": "Dog",
+      "note": "Common pet animal",
+      "state": 4
+    },
+    {
+      "term": "牛",
+      "pronounce": "うし",
+      "definition": "Cow",
+      "note": "Provides milk and beef",
+      "state": 3
+    }
+  ]
+}

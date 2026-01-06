@@ -1,0 +1,20 @@
+{
+  "name": "SubFolderTest21",
+  "children": [
+    {
+      "name": "Company",
+      "numOfChildren": 10,
+      "proficiency": 1
+    },
+    {
+      "name": "TechAndBusiness",
+      "numOfChildren": 30,
+      "proficiency": 1
+    },
+    {
+      "name": "Vehicle",
+      "numOfChildren": 20,
+      "proficiency": 1
+    }
+  ]
+}

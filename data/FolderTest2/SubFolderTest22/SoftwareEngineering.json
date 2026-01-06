@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "term": "プログラミング",
+      "pronounce": "ぷろぐらみんぐ",
+      "definition": "Programming",
+      "note": "The process of writing computer code",
+      "state": 1
+    },
+    {
+      "term": "変数",
+      "pronounce": "へんすう",
+      "definition": "Variable",
+      "note": "A container for storing data values",
+      "state": 1
+    },
+    {
+      "term": "関数",
+      "pronounce": "かんすう",
+      "definition": "Function",
+      "note": "A block of code designed to perform a particular task",
+      "state": 1
+    },
+    {
+      "term": "データベース",
+      "pronounce": "でーたべーす",
+      "definition": "Database",
+      "note": "An organized collection of structured information",
+      "state": 1
+    },
+    {
+      "term": "アルゴリズム",
+      "pronounce": "あるごりずむ",
+      "definition": "Algorithm",
+      "note": "A step-by-step procedure for solving a problem",
+      "state": 1
+    },
+    {
+      "term": "デバッグ",
+      "pronounce": "でばっぐ",
+      "definition": "Debugging",
+      "note": "The process of finding and fixing errors in code",
+      "state": 1
+    },
+    {
+      "term": "フレームワーク",
+      "pronounce": "ふれーむわーく",
+      "definition": "Framework",
+      "note": "A platform for developing software applications",
+      "state": 1
+    },
+    {
+      "term": "インターフェース",
+      "pronounce": "いんたーふぇーす",
+      "definition": "Interface",
+      "note": "A shared boundary across which components exchange information",
+      "state": 1
+    },
+    {
+      "term": "サーバー",
+      "pronounce": "さーばー",
+      "definition": "Server",
+      "note": "A computer or system that provides resources to other computers",
+      "state": 1
+    },
+    {
+      "term": "セキュリティ",
+      "pronounce": "せきゅりてぃ",
+      "definition": "Security",
+      "note": "Protection against unauthorized access or attacks",
+      "state": 1
+    }
+  ]
+}

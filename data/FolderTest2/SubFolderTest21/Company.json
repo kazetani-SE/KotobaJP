@@ -1,0 +1,74 @@
+{
+  "cards": [
+    {
+      "term": "会社",
+      "pronounce": "かいしゃ",
+      "definition": "Company",
+      "note": "General term for a business or corporation",
+      "state": 2
+    },
+    {
+      "term": "社長",
+      "pronounce": "しゃちょう",
+      "definition": "President / CEO",
+      "note": "The head of a company",
+      "state": 2
+    },
+    {
+      "term": "部署",
+      "pronounce": "ぶしょ",
+      "definition": "Department",
+      "note": "A division within a company (e.g., sales, accounting)",
+      "state": 1
+    },
+    {
+      "term": "会議",
+      "pronounce": "かいぎ",
+      "definition": "Meeting",
+      "note": "A gathering to discuss business matters",
+      "state": 2
+    },
+    {
+      "term": "給料",
+      "pronounce": "きゅうりょう",
+      "definition": "Salary",
+      "note": "The payment for work done",
+      "state": 1
+    },
+    {
+      "term": "取引先",
+      "pronounce": "とりひきさき",
+      "definition": "Client / Business Partner",
+      "note": "A company you do business with",
+      "state": 1
+    },
+    {
+      "term": "営業",
+      "pronounce": "えいぎょう",
+      "definition": "Sales / Business Development",
+      "note": "The department or activity of selling products",
+      "state": 1
+    },
+    {
+      "term": "企画",
+      "pronounce": "きかく",
+      "definition": "Project / Plan",
+      "note": "A proposed idea or plan for a new project",
+      "state": 1
+    },
+    {
+      "term": "事務所",
+      "pronounce": "じむしょ",
+      "definition": "Office",
+      "note": "The physical place where work is done",
+      "state": 1
+    },
+    {
+      "term": "名刺",
+      "pronounce": "めいし",
+      "definition": "Business Card",
+      "note": "Essential for introductions in a business context",
+      "state": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "term": "級",
+      "pronounce": "きゅう",
+      "definition": "grade, rank",
+      "note": "cấp",
+      "state": 2
+    },
+    {
+      "term": "予",
+      "pronounce": "よ",
+      "definition": "in advance",
+      "note": "dự",
+      "state": 4
+    },
+    {
+      "term": "定",
+      "pronounce": "てい、じょう",
+      "definition": "certainly, truly",
+      "note": "định",
+      "state": 4
+    },
+    {
+      "term": "表",
+      "pronounce": "ひょう、おもて、おらわ",
+      "definition": "express, surface",
+      "note": "biểu",
+      "state": 2
+    },
+    {
+      "term": "授",
+      "pronounce": "じゅ",
+      "definition": "confer",
+      "note": "thụ (thụ hưởng)",
+      "state": 2
+    },
+    {
+      "term": "宿",
+      "pronounce": "しゅく、やど",
+      "definition": "lodge",
+      "note": "túc",
+      "state": 1
+    },
+    {
+      "term": "復",
+      "pronounce": "ふく",
+      "definition": "return to",
+      "note": "phục",
+      "state": 3
+    },
+    {
+      "term": "辞",
+      "pronounce": "じ、やめる",
+      "definition": "word, resign",
+      "note": "từ (từ bỏ, từ điển)",
+      "state": 2
+    },
+    {
+      "term": "初",
+      "pronounce": "しょ、はじめ",
+      "definition": "first",
+      "note": "sơ (sơ cấp)",
+      "state": 2
+    },
+    {
+      "term": "第",
+      "pronounce": "だい",
+      "definition": "ordinal number prefix",
+      "note": "đệ, thứ (thứ tự)",
+      "state": 2
+    },
+    {
+      "term": "課",
+      "pronounce": "か",
+      "definition": "section, lesson",
+      "note": "khóa (khóa học)",
+      "state": 3
+    },
+    {
+      "term": "練",
+      "pronounce": "れん",
+      "definition": "train",
+      "note": "luyên",
+      "state": 3
+    },
+    {
+      "term": "科",
+      "pronounce": "か",
+      "definition": "scientific, subject",
+      "note": "khoa (khoa học, bách khoa)",
+      "state": 4
+    },
+    {
+      "term": "参",
+      "pronounce": "さん、まいる",
+      "definition": "participate in",
+      "note": "tham",
+      "state": 2
+    },
+    {
+      "term": "忘",
+      "pronounce": "わす",
+      "definition": "forget",
+      "note": "vong",
+      "state": 4
+    },
+    {
+      "term": "覚",
+      "pronounce": "かく、おぼえる",
+      "definition": "perceive, memorize, awake",
+      "note": "giác",
+      "state": 3
+    },
+    {
+      "term": "組",
+      "pronounce": "くみ、そ",
+      "definition": "organize, group",
+      "note": "tổ (tổ chức, tổ đội)",
+      "state": 3
+    },
+    {
+      "term": "席",
+      "pronounce": "せき",
+      "definition": "seat",
+      "note": "tịch",
+      "state": 2
+    },
+    {
+      "term": "欠",
+      "pronounce": "せき、かける",
+      "definition": "lack, absent",
+      "note": "khiếm",
+      "state": 1
+    },
+    {
+      "term": "板",
+      "pronounce": "ばん、いた",
+      "definition": "board",
+      "note": "bản",
+      "state": 3
+    }
+  ]
+}

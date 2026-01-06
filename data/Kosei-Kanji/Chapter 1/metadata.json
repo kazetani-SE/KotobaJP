@@ -1,0 +1,10 @@
+{
+  "name": "Chapter 1",
+  "children": [
+    {
+      "name": "Classroom",
+      "numOfChildren": 20,
+      "proficiency": 1
+    }
+  ]
+}

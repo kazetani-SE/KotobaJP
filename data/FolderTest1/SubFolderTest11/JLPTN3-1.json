@@ -1,0 +1,172 @@
+{
+  "cards": [
+    {
+      "term": "経験",
+      "pronounce": "けいけん",
+      "definition": "experience",
+      "note": "kinh nghiệm",
+      "state": 4
+    },
+    {
+      "term": "状況",
+      "pronounce": "じょうきょう",
+      "definition": "situation",
+      "note": "trạng huống",
+      "state": 1
+    },
+    {
+      "term": "原因",
+      "pronounce": "げんいん",
+      "definition": "cause",
+      "note": "nguyên nhân",
+      "state": 2
+    },
+    {
+      "term": "結果",
+      "pronounce": "けっか",
+      "definition": "result",
+      "note": "kết quả",
+      "state": 4
+    },
+    {
+      "term": "影響",
+      "pronounce": "えいきょう",
+      "definition": "influence",
+      "note": "ảnh hưởng",
+      "state": 3
+    },
+    {
+      "term": "関係",
+      "pronounce": "かんけい",
+      "definition": "relationship",
+      "note": "quan hệ",
+      "state": 3
+    },
+    {
+      "term": "努力",
+      "pronounce": "どりょく",
+      "definition": "effort",
+      "note": "nỗ lực",
+      "state": 4
+    },
+    {
+      "term": "成長",
+      "pronounce": "せいちょう",
+      "definition": "growth",
+      "note": "thành trưởng",
+      "state": 4
+    },
+    {
+      "term": "失敗",
+      "pronounce": "しっぱい",
+      "definition": "failure",
+      "note": "thất bại",
+      "state": 4
+    },
+    {
+      "term": "成功",
+      "pronounce": "せいこう",
+      "definition": "success",
+      "note": "thành công",
+      "state": 4
+    },
+    {
+      "term": "変化",
+      "pronounce": "へんか",
+      "definition": "change",
+      "note": "biến hóa",
+      "state": 4
+    },
+    {
+      "term": "確認",
+      "pronounce": "かくにん",
+      "definition": "confirmation",
+      "note": "xác nhận",
+      "state": 3
+    },
+    {
+      "term": "必要",
+      "pronounce": "ひつよう",
+      "definition": "necessary",
+      "note": "tất yếu",
+      "state": 4
+    },
+    {
+      "term": "重要",
+      "pronounce": "じゅうよう",
+      "definition": "important",
+      "note": "trọng yếu",
+      "state": 1
+    },
+    {
+      "term": "意見",
+      "pronounce": "いけん",
+      "definition": "opinion",
+      "note": "ý kiến",
+      "state": 4
+    },
+    {
+      "term": "説明",
+      "pronounce": "せつめい",
+      "definition": "explanation",
+      "note": "thuyết minh",
+      "state": 3
+    },
+    {
+      "term": "提案",
+      "pronounce": "ていあん",
+      "definition": "suggestion",
+      "note": "đề án",
+      "state": 3
+    },
+    {
+      "term": "判断",
+      "pronounce": "はんだん",
+      "definition": "judgment",
+      "note": "phán đoán",
+      "state": 3
+    },
+    {
+      "term": "対応",
+      "pronounce": "たいおう",
+      "definition": "response",
+      "note": "đối ứng",
+      "state": 3
+    },
+    {
+      "term": "準備",
+      "pronounce": "じゅんび",
+      "definition": "preparation",
+      "note": "chuẩn bị",
+      "state": 4
+    },
+    {
+      "term": "目的",
+      "pronounce": "もくてき",
+      "definition": "purpose",
+      "note": "mục đích",
+      "state": 4
+    },
+    {
+      "term": "方法",
+      "pronounce": "ほうほう",
+      "definition": "method",
+      "note": "phương pháp",
+      "state": 4
+    },
+    {
+      "term": "理解",
+      "pronounce": "りかい",
+      "definition": "understanding",
+      "note": "lý giải",
+      "state": 4
+    },
+    {
+      "term": "期待",
+      "pronounce": "きたい",
+      "definition": "expectation",
+      "note": "kỳ đãi",
+      "state": 4
+    }
+  ]
+}

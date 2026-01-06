@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "term": "車",
+      "pronounce": "くるま",
+      "definition": "car",
+      "note": "general word for car or vehicle",
+      "state": 1
+    },
+    {
+      "term": "自動車",
+      "pronounce": "じどうしゃ",
+      "definition": "automobile",
+      "note": "formal term for motor vehicle",
+      "state": 1
+    },
+    {
+      "term": "バス",
+      "pronounce": "ばす",
+      "definition": "bus",
+      "note": "public transportation bus",
+      "state": 1
+    },
+    {
+      "term": "電車",
+      "pronounce": "でんしゃ",
+      "definition": "train",
+      "note": "electric train commonly used in cities",
+      "state": 1
+    },
+    {
+      "term": "地下鉄",
+      "pronounce": "ちかてつ",
+      "definition": "subway",
+      "note": "underground train system",
+      "state": 1
+    },
+    {
+      "term": "タクシー",
+      "pronounce": "たくしー",
+      "definition": "taxi",
+      "note": "vehicle for hire with driver",
+      "state": 1
+    },
+    {
+      "term": "自転車",
+      "pronounce": "じてんしゃ",
+      "definition": "bicycle",
+      "note": "human-powered vehicle",
+      "state": 1
+    },
+    {
+      "term": "バイク",
+      "pronounce": "ばいく",
+      "definition": "motorbike",
+      "note": "casual word for motorcycle",
+      "state": 1
+    },
+    {
+      "term": "二輪車",
+      "pronounce": "にりんしゃ",
+      "definition": "two-wheeled vehicle",
+      "note": "formal term for motorcycles",
+      "state": 1
+    },
+    {
+      "term": "トラック",
+      "pronounce": "とらっく",
+      "definition": "truck",
+      "note": "vehicle for transporting goods",
+      "state": 1
+    },
+    {
+      "term": "救急車",
+      "pronounce": "きゅうきゅうしゃ",
+      "definition": "ambulance",
+      "note": "emergency medical vehicle",
+      "state": 1
+    },
+    {
+      "term": "消防車",
+      "pronounce": "しょうぼうしゃ",
+      "definition": "fire truck",
+      "note": "vehicle used by firefighters",
+      "state": 1
+    },
+    {
+      "term": "警察車両",
+      "pronounce": "けいさつしゃりょう",
+      "definition": "police vehicle",
+      "note": "vehicle used by police",
+      "state": 1
+    },
+    {
+      "term": "新幹線",
+      "pronounce": "しんかんせん",
+      "definition": "bullet train",
+      "note": "high-speed train in Japan",
+      "state": 1
+    },
+    {
+      "term": "飛行機",
+      "pronounce": "ひこうき",
+      "definition": "airplane",
+      "note": "vehicle that flies in the air",
+      "state": 1
+    },
+    {
+      "term": "船",
+      "pronounce": "ふね",
+      "definition": "ship",
+      "note": "water transportation vehicle",
+      "state": 1
+    },
+    {
+      "term": "高速道路",
+      "pronounce": "こうそくどうろ",
+      "definition": "highway",
+      "note": "road for fast vehicle travel",
+      "state": 1
+    },
+    {
+      "term": "駐車場",
+      "pronounce": "ちゅうしゃじょう",
+      "definition": "parking lot",
+      "note": "place to park vehicles",
+      "state": 1
+    },
+    {
+      "term": "運転",
+      "pronounce": "うんてん",
+      "definition": "driving",
+      "note": "act of operating a vehicle",
+      "state": 1
+    },
+    {
+      "term": "免許証",
+      "pronounce": "めんきょしょう",
+      "definition": "driver’s license",
+      "note": "license required to drive",
+      "state": 1
+    }
+  ]
+}

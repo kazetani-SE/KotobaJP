@@ -1,0 +1,25 @@
+{
+  "name": "",
+  "children": [
+    {
+      "name": "FolderTest1",
+      "numOfChildren": 3,
+      "proficiency": 0
+    },
+    {
+      "name": "FolderTest2",
+      "numOfChildren": 2,
+      "proficiency": 0
+    },
+    {
+      "name": "Kosei-Kanji",
+      "numOfChildren": 1,
+      "proficiency": 0
+    },
+    {
+      "name": "hello word ",
+      "numOfChildren": 0,
+      "proficiency": 0
+    }
+  ]
+}

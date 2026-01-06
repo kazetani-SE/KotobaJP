@@ -1,0 +1,214 @@
+{
+  "cards": [
+    {
+      "term": "プログラミング",
+      "pronounce": "ぷろぐらみんぐ",
+      "definition": "Programming",
+      "note": "The process of writing computer code",
+      "state": 2
+    },
+    {
+      "term": "開発環境",
+      "pronounce": "かいはつかんきょう",
+      "definition": "Development Environment",
+      "note": "The setup for writing and testing software",
+      "state": 2
+    },
+    {
+      "term": "版管理",
+      "pronounce": "はんかんり",
+      "definition": "Version Control",
+      "note": "System for tracking changes in code (e.g., Git)",
+      "state": 1
+    },
+    {
+      "term": "データベース",
+      "pronounce": "でーたべーす",
+      "definition": "Database",
+      "note": "Organized collection of structured data",
+      "state": 1
+    },
+    {
+      "term": "変数",
+      "pronounce": "へんすう",
+      "definition": "Variable",
+      "note": "A named storage location in programming",
+      "state": 2
+    },
+    {
+      "term": "関数",
+      "pronounce": "かんすう",
+      "definition": "Function",
+      "note": "A block of reusable code",
+      "state": 2
+    },
+    {
+      "term": "仕様書",
+      "pronounce": "しようしょ",
+      "definition": "Specification Document",
+      "note": "Document describing software requirements",
+      "state": 1
+    },
+    {
+      "term": "実行",
+      "pronounce": "じっこう",
+      "definition": "Execution",
+      "note": "Running a program or code",
+      "state": 1
+    },
+    {
+      "term": "解析",
+      "pronounce": "かいせき",
+      "definition": "Analysis",
+      "note": "Examining data or code structure",
+      "state": 1
+    },
+    {
+      "term": "最適化",
+      "pronounce": "さいてきか",
+      "definition": "Optimization",
+      "note": "Improving software performance",
+      "state": 2
+    },
+    {
+      "term": "保守",
+      "pronounce": "ほしゅ",
+      "definition": "Maintenance",
+      "note": "Ongoing support and updates for software",
+      "state": 1
+    },
+    {
+      "term": "登録",
+      "pronounce": "とうろく",
+      "definition": "Registration",
+      "note": "Adding data to a system",
+      "state": 1
+    },
+    {
+      "term": "検索",
+      "pronounce": "けんさく",
+      "definition": "Search",
+      "note": "Looking up information in a database",
+      "state": 2
+    },
+    {
+      "term": "構造",
+      "pronounce": "こうぞう",
+      "definition": "Structure",
+      "note": "Organization of code or data",
+      "state": 1
+    },
+    {
+      "term": "演算",
+      "pronounce": "えんざん",
+      "definition": "Calculation",
+      "note": "Performing mathematical operations",
+      "state": 1
+    },
+    {
+      "term": "設定",
+      "pronounce": "せってい",
+      "definition": "Settings",
+      "note": "Configuration options for software",
+      "state": 2
+    },
+    {
+      "term": "製品開発",
+      "pronounce": "せいひんかいはつ",
+      "definition": "Product Development",
+      "note": "Creating new software products",
+      "state": 2
+    },
+    {
+      "term": "市場分析",
+      "pronounce": "しじょうぶんせき",
+      "definition": "Market Analysis",
+      "note": "Examining market conditions for business decisions",
+      "state": 1
+    },
+    {
+      "term": "投資回収",
+      "pronounce": "とうしかいしゅう",
+      "definition": "Return on Investment",
+      "note": "Measure of profitability for business investments",
+      "state": 1
+    },
+    {
+      "term": "競争優位",
+      "pronounce": "きょうそうゆうい",
+      "definition": "Competitive Advantage",
+      "note": "Superior position in the market",
+      "state": 1
+    },
+    {
+      "term": "事業計画",
+      "pronounce": "じぎょうけいかく",
+      "definition": "Business Plan",
+      "note": "Document outlining business strategy",
+      "state": 2
+    },
+    {
+      "term": "資本金",
+      "pronounce": "しほんきん",
+      "definition": "Capital",
+      "note": "Funds invested in a business",
+      "state": 1
+    },
+    {
+      "term": "収益源",
+      "pronounce": "しゅうえきげん",
+      "definition": "Revenue Stream",
+      "note": "Source of income for a business",
+      "state": 1
+    },
+    {
+      "term": "販売戦略",
+      "pronounce": "はんばいせんりゃく",
+      "definition": "Sales Strategy",
+      "note": "Plan for selling products or services",
+      "state": 2
+    },
+    {
+      "term": "顧客関係",
+      "pronounce": "こきゃくかんけい",
+      "definition": "Customer Relationship",
+      "note": "Interaction and connection with customers",
+      "state": 1
+    },
+    {
+      "term": "技術連携",
+      "pronounce": "ぎじゅつれんけい",
+      "definition": "Technical Collaboration",
+      "note": "Working together on technical projects",
+      "state": 1
+    },
+    {
+      "term": "開発費用",
+      "pronounce": "かいはつひよう",
+      "definition": "Development Cost",
+      "note": "Expenses related to software development",
+      "state": 2
+    },
+    {
+      "term": "品質管理",
+      "pronounce": "ひんしつかんり",
+      "definition": "Quality Control",
+      "note": "Ensuring software meets standards",
+      "state": 2
+    },
+    {
+      "term": "運用保守",
+      "pronounce": "うんようほしゅ",
+      "definition": "Operation and Maintenance",
+      "note": "Running and maintaining software systems",
+      "state": 1
+    },
+    {
+      "term": "技術移転",
+      "pronounce": "ぎじゅついてん",
+      "definition": "Technology Transfer",
+      "note": "Sharing technology between organizations",
+      "state": 1
+    }
+  ]
+}

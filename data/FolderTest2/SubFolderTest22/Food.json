@@ -1,0 +1,144 @@
+{
+  "cards": [
+    {
+      "term": "食べ物",
+      "pronounce": "tabemono",
+      "definition": "food",
+      "note": "general term for food",
+      "state": 2
+    },
+    {
+      "term": "ご飯",
+      "pronounce": "gohan",
+      "definition": "rice / meal",
+      "note": "commonly means cooked rice or a meal",
+      "state": 2
+    },
+    {
+      "term": "朝食",
+      "pronounce": "choushoku",
+      "definition": "breakfast",
+      "note": "formal word for breakfast",
+      "state": 2
+    },
+    {
+      "term": "昼食",
+      "pronounce": "chuushoku",
+      "definition": "lunch",
+      "note": "formal word for lunch",
+      "state": 2
+    },
+    {
+      "term": "夕食",
+      "pronounce": "yuushoku",
+      "definition": "dinner",
+      "note": "formal word for dinner",
+      "state": 2
+    },
+    {
+      "term": "料理",
+      "pronounce": "ryouri",
+      "definition": "cuisine / cooking",
+      "note": "used for cooked dishes or cuisine",
+      "state": 2
+    },
+    {
+      "term": "野菜",
+      "pronounce": "yasai",
+      "definition": "vegetables",
+      "note": "general term for vegetables",
+      "state": 2
+    },
+    {
+      "term": "果物",
+      "pronounce": "kudamono",
+      "definition": "fruit",
+      "note": "general term for fruit",
+      "state": 2
+    },
+    {
+      "term": "肉",
+      "pronounce": "niku",
+      "definition": "meat",
+      "note": "refers to animal meat",
+      "state": 2
+    },
+    {
+      "term": "魚",
+      "pronounce": "sakana",
+      "definition": "fish",
+      "note": "used for fish as food",
+      "state": 2
+    },
+    {
+      "term": "飲み物",
+      "pronounce": "nomimono",
+      "definition": "drink",
+      "note": "general term for beverages",
+      "state": 2
+    },
+    {
+      "term": "水",
+      "pronounce": "mizu",
+      "definition": "water",
+      "note": "basic drink",
+      "state": 2
+    },
+    {
+      "term": "お茶",
+      "pronounce": "o-cha",
+      "definition": "tea",
+      "note": "polite form, usually green tea",
+      "state": 2
+    },
+    {
+      "term": "牛乳",
+      "pronounce": "gyuunyuu",
+      "definition": "milk",
+      "note": "cow milk",
+      "state": 2
+    },
+    {
+      "term": "甘い",
+      "pronounce": "amai",
+      "definition": "sweet",
+      "note": "describes sweet taste",
+      "state": 2
+    },
+    {
+      "term": "辛い",
+      "pronounce": "karai",
+      "definition": "spicy",
+      "note": "also means salty depending on context",
+      "state": 2
+    },
+    {
+      "term": "苦い",
+      "pronounce": "nigai",
+      "definition": "bitter",
+      "note": "used for bitter taste",
+      "state": 2
+    },
+    {
+      "term": "酸っぱい",
+      "pronounce": "suppai",
+      "definition": "sour",
+      "note": "used for sour taste",
+      "state": 2
+    },
+    {
+      "term": "美味しい",
+      "pronounce": "oishii",
+      "definition": "delicious",
+      "note": "casual polite form",
+      "state": 1
+    },
+    {
+      "term": "不味い",
+      "pronounce": "mazui",
+      "definition": "bad-tasting",
+      "note": "rude if used directly",
+      "state": 1
+    }
+  ]
+}

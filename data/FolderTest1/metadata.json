@@ -1,0 +1,20 @@
+{
+  "name": "FolderTest1",
+  "children": [
+    {
+      "name": "Animal",
+      "numOfChildren": 10,
+      "proficiency": 1
+    },
+    {
+      "name": "Fruit",
+      "numOfChildren": 10,
+      "proficiency": 1
+    },
+    {
+      "name": "SubFolderTest11",
+      "numOfChildren": 1,
+      "proficiency": 0
+    }
+  ]
+}
